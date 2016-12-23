@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:state_pressed="true" >
+        <shape >
+            <stroke 
+                android:width="2dp"
+                android:color="@color/player_btn_focus"/>
+            <solid android:color="#85969c" />
+            <corners android:radius="@dimen/btn_speed_corner"/>
+        </shape>
+        
+    </item>
+    
+        <item >
+        <shape >
+            <stroke 
+                android:width="2dp"
+                android:color="@color/player_normal"/>
+            <solid android:color="#000" />
+            <corners android:radius="@dimen/btn_speed_corner"/>
+        </shape>
+        
+    </item>
+    
+
+</selector>

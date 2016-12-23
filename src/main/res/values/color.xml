@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="seekbar_played">#00c0ff</color>
+    <color name="seekbar_normal">#85939c</color>
+    <color name="seekbar_secondaryProgress">#41484c</color>
+    
+    
+    <color name="player_normal">#85939c</color>
+    <color name="player_btn_focus">#00c0ff</color>
+    
+    
+    <color name="bk_border_player_view">#cbcbcb</color>
+    <color name="bk_player_view">#ffffff</color>
+    <color name="time_player_view">#d2d2d2</color>
+    <color name="title_player_view">#242424</color>
+    
+    <color name="speed_btn_slow">#ffb54b</color>
+    <color name="speed_btn_normal">#9dee47</color>
+    <color name="speed_btn_fast">#48daff</color>
+    
+    <color name="seekbar_line_normal">#cbcbcb</color>
+    <color name="seekbar_line_progress">#46bfff</color>
+    <color name="seekbar_line_secondprogress">#959595</color>
+    
+    
+    <color name="lft_voice_player_cl_btn_download_press">#cbcbcb</color>
+    
+    
+    
+</resources>

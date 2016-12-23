@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="fill_parent" android:layout_width="fill_parent">
+	<LinearLayout android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:orientation="vertical"
+		android:layout_gravity="top">
+		
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="40dp" android:text="file_name"
+			android:id="@+id/tips" />
+			
+		<EditText android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:id="@+id/file_name"
+			android:text="http://pc.daoxuehao.com/DXHFiles/mp3/ifnoyou.mp3" />
+			
+		<LinearLayout android:orientation="horizontal"
+			android:layout_gravity="center_horizontal" android:layout_marginTop="4.0dip"
+			android:layout_height="wrap_content" android:layout_width="wrap_content">
+			<Button android:layout_width="80dip"
+				android:layout_height="wrap_content" android:id="@+id/btnPlayUrl"
+				android:text="play"></Button>
+			<Button android:layout_height="wrap_content" android:id="@+id/btnPause"
+				android:text="pause" android:layout_width="80dip"></Button>
+			<Button android:layout_height="wrap_content"
+				android:layout_width="80dip" android:text="stop"
+				android:id="@+id/btnStop"></Button>
+			<Button android:layout_height="wrap_content"
+				android:layout_width="80dip" android:text="replay"
+				android:id="@+id/btnReplay"></Button>
+		</LinearLayout>
+		
+		<LinearLayout android:orientation="horizontal"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:layout_marginBottom="20dip">
+			
+			<SeekBar android:paddingRight="10dip" android:layout_gravity="center_vertical"
+				android:paddingLeft="10dip" android:layout_weight="1.0"
+				android:layout_height="wrap_content" android:layout_width="wrap_content"
+				android:id="@+id/skbProgress" android:max="100"></SeekBar>
+			
+			<TextView 
+			    android:id="@+id/tv_time_total"
+			    android:layout_width="wrap_content" 
+			    android:layout_height="wrap_content"
+			    android:text="00:00"
+			    />
+		</LinearLayout>
+	</LinearLayout>
+</FrameLayout> 

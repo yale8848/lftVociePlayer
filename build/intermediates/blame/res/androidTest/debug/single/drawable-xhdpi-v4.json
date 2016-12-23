@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_close_focus.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_close_focus.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_close_normal.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_close_normal.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_btn_play_normal.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_btn_play_normal.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_btn_pause_focus.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_btn_pause_focus.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_seekbar_thumb_normal.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_progress_seekeer.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_progress_seekeer.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_seekbar_thumb_focus.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_seekbar_thumb_focus.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_btn_pause_normal.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_btn_pause_normal.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\lft_voice_btn_play_focus.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\lftVociePlayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\lft_voice_btn_play_focus.png"
+    }
+]

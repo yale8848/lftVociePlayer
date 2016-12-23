@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/lft_voice_player_view_defalut.xml" />
+    </issue>
+    <issue id="RtlSymmetry">
+        <ignore path="res/layout/lft_voice_player_view_defalut.xml" />
+    </issue>
+</lint>

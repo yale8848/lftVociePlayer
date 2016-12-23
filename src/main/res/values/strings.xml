@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LftVociePlayer</string>
+    <string name="lft_voice_player_view_download">下载</string>
+</resources>
