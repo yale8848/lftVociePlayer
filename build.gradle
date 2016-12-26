@@ -27,4 +27,4 @@ dependencies {
     compile 'com.alibaba:fastjson:1.1.55.android'
 }
 
-apply from: '../../config/bintray/lftVociePlayer.gradle'
+//apply from: '../../config/bintray/lftVociePlayer.gradle'
